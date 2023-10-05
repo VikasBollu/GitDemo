@@ -39,8 +39,8 @@ public class LandingPageStepDefination {
 		Thread.sleep(2000);
 		testContextSetup.landingpageextractedname=landingpage.extractproductname(landingpage.getproductname());
 	    System.out.println(testContextSetup.landingpageextractedname);
-	    System.out.println("Testing giiiiiiiiiiiiiiiiiit");
-	    System.out.println("this is landing page test");
+	    System.out.println("Testing giiiiiiiiiiiiiiiiit branch");
+	    System.out.println("this is landing page test branch develop");
 	}
 	
 }
