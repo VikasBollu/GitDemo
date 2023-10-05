@@ -41,6 +41,7 @@ public class OffersPageStepDefinition {
 	public void validate_the_product_name_matches_with_the_offers_page_and_landing_page() {
 	   Assert.assertEquals(testContextSetup.landingpageextractedname, offerpageextractedname);
 	   System.out.println("Test executed successfully");
+	   System.out.println("this is offers page test");
 	}
 
 }

@@ -40,6 +40,7 @@ public class LandingPageStepDefination {
 		testContextSetup.landingpageextractedname=landingpage.extractproductname(landingpage.getproductname());
 	    System.out.println(testContextSetup.landingpageextractedname);
 	    System.out.println("Testing giiiiiiiiiiiiiiiiiit");
+	    System.out.println("this is landing page test");
 	}
 	
 }
